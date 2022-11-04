@@ -1,5 +1,5 @@
 import { FavouritePlace } from "../FavouritePlace";
-export function getFavPlacesData(): any[] {
+export function getFavPlacesData(): JSX.Element[] {
   const places = [
     {
       img: "https://media.istockphoto.com/photos/bangkok-cityscape-picture-id483816132?k=20&m=483816132&s=612x612&w=0&h=w9TX3ICqSQ4mhakng6eJYhcnciMQB6O3awnZzCu1o2Y=",
