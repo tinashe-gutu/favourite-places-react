@@ -1,7 +1,7 @@
-import {getFavPlacesData} from "./utils/getFavPlacesData"
+import { getFavPlacesData } from "./utils/getFavPlacesData";
 
 function App(): JSX.Element {
-  const FavPlaces = getFavPlacesData()
+  const FavPlaces = getFavPlacesData();
 
   return (
     <>
